@@ -86,11 +86,7 @@ git clone https://github.com/mohammedibrahim9312/covid_analysis-.git
 cd covid_analysis-
 ```
 
-3. Install required libraries:
 
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
 
 4. Run Jupyter Notebook:
 
