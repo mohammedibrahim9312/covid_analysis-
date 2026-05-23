@@ -67,8 +67,8 @@ covid_analysis/
 
 * Line charts showing global case growth over time
 * Bar charts comparing countries
-* Heatmaps for correlation analysis
-* Pie charts for case distribution
+
+
 
 ---
 
@@ -115,7 +115,6 @@ jupyter notebook
 
 * Add machine learning forecasting models
 * Integrate real-time COVID-19 API data
-* Deploy as a web app using Streamlit
 
 ---
 
